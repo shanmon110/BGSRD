@@ -1,0 +1,5 @@
+dgl-cu102
+pytorch-ignite
+nltk
+scikit-learn
+transformers
